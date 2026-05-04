@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🏴‍☠️ Welcome to my GitHub, I'm retr0-r00t
 
-<!--
-**retr0-r00t/retr0-r00t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> Initializing profile...
+> Access granted.
+```
 
-Here are some ideas to get you started:
+## About Me
+Cybersecurity student focused on networking and offensive security.  
+Currently building skills in penetration testing, network analysis, and security concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Certifications
+<p>
+  <img src="Security.png" width="120"/>
+</p>
+
+---
+
+## 📂 Projects
+- 🔍 Network Analysis Labs  
+- 🌐 Web Security Notes  
+- 🛠️ Pentesting Tools & Practice  
+- 📄 Write-ups (HTB / TryHackMe)
+
+---
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+```bash
+> End of transmission.
+```
