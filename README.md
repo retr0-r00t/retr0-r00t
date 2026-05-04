@@ -5,9 +5,11 @@
 > Access granted.
 ```
 
-## About Me
-Cybersecurity student focused on networking and offensive security.  
-Currently building skills in penetration testing, network analysis, and security concepts.
+## 👨‍💻 About Me
+Cybersecurity student focused on networking and offensive security — exploring how systems work and how they break.  
+Building hands-on skills in penetration testing and network analysis.  
+
+> Learning. Testing. Breaking. Improving.
 
 ---
 
@@ -31,5 +33,6 @@ Currently building skills in penetration testing, network analysis, and security
 ---
 
 ```bash
+> We don’t break rules, we rewrite them.
 > End of transmission.
 ```
