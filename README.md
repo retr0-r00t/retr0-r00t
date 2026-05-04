@@ -11,16 +11,16 @@ Currently building skills in penetration testing, network analysis, and security
 
 ---
 
-## 🏅 Certifications
+## 📂 Projects
 <p>
-  <img src="Security.png" width="120"/>
+  <img src="https://i.pinimg.com/originals/88/71/4a/88714a27c1a6c90148b5793a4b8ad8cb.gif" width="120"/>
 </p>
 
 ---
 
-## 📂 Projects
+## 🏅 Certifications
 <p>
-  <img src="https://i.pinimg.com/originals/88/71/4a/88714a27c1a6c90148b5793a4b8ad8cb.gif" width="120"/>
+  <img src="Security.png" width="120"/>
 </p>
 
 ---
