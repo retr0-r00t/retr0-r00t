@@ -14,6 +14,11 @@ Building hands-on skills in penetration testing and network analysis.
   - [Web Analysis and Penetration Testing Laboratory](https://github.com/retr0-r00t/web-pentest-local-lab)
 
 ---
+### 🏅 Certifications
+<p>
+  <img src="Security.png" width="65"/>
+</p>
+
 ```bash
-> We don’t break rules, we rewrite them.
+> End of transmission.
 ```
