@@ -1,5 +1,5 @@
 # Welcome to my GitHub, I'm retr0-r00t 🏴‍☠️
-
+alson kknow by Enzo Niches
 ```bash
 > Initializing profile...
 > Access granted.
@@ -19,13 +19,6 @@ Building hands-on skills in penetration testing and network analysis.
 </p>
 
 ---
-
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-niches)
-
----
-
 ```bash
 > We don’t break rules, we rewrite them.
-> End of transmission.
 ```
