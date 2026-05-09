@@ -16,7 +16,7 @@ Building hands-on skills in penetration testing and network analysis.
 ---
 ### 🏅 Certifications
 <p>
-  <img src="Security.png" width="65"/>
+  <img src="Security.png" width="75"/>
 </p>
 
 ```bash
