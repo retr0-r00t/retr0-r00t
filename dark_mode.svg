@@ -1,0 +1,64 @@
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .bar { fill: #161b22; }
+    .border { stroke: #30363d; stroke-width: 1; }
+    .title { fill: #c9d1d9; font: 600 14px monospace; }
+    .text { fill: #c9d1d9; font: 14px monospace; }
+    .green { fill: #8ccf4d; font: 600 15px monospace; }
+    .muted { fill: #8b949e; font: 13px monospace; }
+    .ascii { fill: #c9d1d9; font: 12px monospace; white-space: pre; }
+  </style>
+
+  <rect x="10" y="10" width="880" height="480" rx="12" class="bg"/>
+  <rect x="10" y="10" width="880" height="480" rx="12" class="border"/>
+
+  <rect x="10" y="10" width="880" height="36" rx="12" class="bar"/>
+  <circle cx="32" cy="28" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="28" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="28" r="6" fill="#27c93f"/>
+
+  <text x="365" y="32" class="title">retr0-r00t@ghostterminal</text>
+
+  <text x="40" y="90" class="green">┌──(retr0-r00t㉿github)-[~/profile]</text>
+  <text x="40" y="115" class="green">└─$ neofetch</text>
+
+  <text x="40" y="165" class="ascii">
+    <tspan x="40" dy="0">        .ed"""" """$$$$be.</tspan>
+    <tspan x="40" dy="16">      -"           ^""**$$$e.</tspan>
+    <tspan x="40" dy="16">    ."                   '$$$c</tspan>
+    <tspan x="40" dy="16">   /                      "4$$b</tspan>
+    <tspan x="40" dy="16">  d  3                      $$$$</tspan>
+    <tspan x="40" dy="16">  $  *                   .$$$$$$</tspan>
+    <tspan x="40" dy="16"> .$  ^c           $$$$$e$$$$$$$$.</tspan>
+    <tspan x="40" dy="16"> d$L  4.         4$$$$$$$$$$$$$$b</tspan>
+    <tspan x="40" dy="16"> $$$$b ^ceeeee.  4$$ECL.F*$$$$$$$</tspan>
+    <tspan x="40" dy="16"> $$$$P d$$$$F $ $$$$$$$$$- $$$$$$</tspan>
+    <tspan x="40" dy="16"> 3$$$F "$$$$b   $"$$$$$$$  $$$$*"</tspan>
+    <tspan x="40" dy="16">  $$P"  "$$b   .$ $$$$$...e$$</tspan>
+    <tspan x="40" dy="16">   *c    ..    $$ 3$$$$$$$$$$eF</tspan>
+  </text>
+
+  <text x="510" y="165" class="green">retr0-r00t@github</text>
+  <text x="510" y="190" class="text">-------------------</text>
+
+  <text x="510" y="225" class="green">Name:</text>
+  <text x="570" y="225" class="text">Enzo Niches</text>
+
+  <text x="510" y="250" class="green">Role:</text>
+  <text x="570" y="250" class="text">Cybersecurity Student</text>
+
+  <text x="510" y="275" class="green">Focus:</text>
+  <text x="580" y="275" class="text">Web Pentest</text>
+
+  <text x="510" y="300" class="green">Stack:</text>
+  <text x="580" y="300" class="text">Python | JS | Bash</text>
+
+  <text x="510" y="325" class="green">Tools:</text>
+  <text x="580" y="325" class="text">Burp | Nmap | Git | Linux</text>
+
+  <text x="510" y="350" class="green">Cert:</text>
+  <text x="570" y="350" class="text">CompTIA Security+</text>
+
+  <text x="40" y="435" class="muted">root@mindset:~# hacking_is_our_weapon</text>
+</svg>
