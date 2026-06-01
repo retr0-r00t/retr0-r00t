@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./readme.svg" alt="README terminal presentation" width="900" />
+  <img src="./retr0.svg" alt="README terminal presentation" width="900" />
 </p>
