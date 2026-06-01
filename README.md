@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./retr0r00t.svg" alt="README terminal presentation" width="1000" />
+  <img src="./retr0r00t.svg" alt="retr0-r00t README banner" width="100%" />
 </p>
